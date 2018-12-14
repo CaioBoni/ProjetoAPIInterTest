@@ -41,6 +41,6 @@ insert into JOB_TASKS (job_id, tasks_id) values (2, 3);
 }
 ```
 
-* [LinkedIn] (https://www.linkedin.com/in/caio-goulart-boni-51884092/)
+* [LinkedIn](https://www.linkedin.com/in/caio-goulart-boni-51884092/)
 
 TODO
