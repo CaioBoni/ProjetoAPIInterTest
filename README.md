@@ -1,12 +1,22 @@
 # ProjetoAPIInterTest
 
-## Commands Maven
+## Maven Commands
 ### Run & Tests
 
 ```
 mvn clean install
 mvn spring-boot:run
 ```
+
+## DataBase Config & Connection
+### Tests in "http://localhost:9000/h2"
+```
+Driver Class: org.h2.Driver
+JDBC URL: jdbc:h2:file:~/h2db
+Username: h2sa
+Password: admin
+```
+
 
 ## Insert Data
 ```
