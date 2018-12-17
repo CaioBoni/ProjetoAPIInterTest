@@ -35,6 +35,9 @@ public class Task {
 	@Column(name="CREATED_AT")
 	private Date createdAt;
 	
+	public Task() {
+	}
+	
 	public Integer getId() {
 		return id;
 	}
